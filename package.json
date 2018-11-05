@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wulfsolter/angular2-signaturepad.git"
+    "url": "git+https://github.com/IvanPayan/angular2-signaturepad"
   },
   "keywords": [
     "signature",
