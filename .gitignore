@@ -5,14 +5,8 @@ npm-debug.log
 # OS generated files
 Thumbs.db
 .DS_Store
-.idea
 
-# Ignored files
-*.js
 *.map
-*.d.ts
-
-typings
 
 ngfactory
 *.metadata.json
